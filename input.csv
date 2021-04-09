@@ -1,0 +1,54 @@
+Key,Summary,Story Points
+DDA-1,définir matériels et environnements de travail,1
+DDA-2,lister le matériel nécessaire à Qualiphy Count,1
+DDA-8,définir et valider les caméras,2
+DDA-9,définir et tester Nvidia Nano,3
+DDA-10,définir carte SD,1
+DDA-11,définir alimentation,1
+DDA-12,définir connexion à internet,4
+DDA-13,définir et tester Nvidia Xavier,3
+DDA-14,définir boitier pour device Qualiphy count,5
+DDA-3,définir l'environnement Nvidia Nano,6
+DDA-15,définir environnement de test,6
+DDA-16,définir environnement de préprod,6
+DDA-17,définir environnement de prod,8
+DDA-4,définir l'environnement MongoDB,8
+DDA-22,définir environnement DNA,5
+DDA-23,définir environnement client,5
+DDA-5,définir l'environnement Backend,5
+DDA-24,définir environnement test,5
+DDA-25,définir environnement de prod,7
+DDA-6,définir l'environnement Dashboard,7
+DDA-26,définir environnement de developpement,7
+DDA-27,définir environnement de préprod,7
+DDA-28,définir environnement de prod,7
+DDA-7,définir la connexion internet du device Qualiphy Count,4
+DDA-18,définir l'environnement Nvidia Xavier,4
+DDA-19,définir environnement de test,4
+DDA-20,définir environnement de préprod,4
+DDA-21,définir environnement de prod,4
+DDA-29,développer Qualiphy Count,4
+DDA-30,compter flux de personnes Entrant/Sortant pour une zone donnée,9
+DDA-38,définir le schéma de principe,3
+DDA-39,déterminer les kpi souhaités à mesurer à l'aide des algo,9
+DDA-40,développer algorithme de comptage,13
+DDA-41,exécuter les algo sur les environnements de travail ,15
+DDA-42,déterminer zone de surveillance,7
+DDA-31,qualifier en genre une personne E/S,17
+DDA-43,définir le schéma de principe,8
+DDA-44,déterminer les résultats possible,12
+DDA-45,définir les critères nécessaires et suffisants pour avoir un résultat,8
+DDA-46,déterminer les kpi possibles ,11
+DDA-47,développer un algorithme,17
+DDA-48,exécuter l'algo,14
+DDA-32,qualifier par tranche d'age une personne E/S,14
+DDA-49,définir le schéma de principe,6
+DDA-50,définir les critères nécessaires et suffisants pour avoir un résultat,6
+DDA-51,déterminer les kpi,7
+DDA-52,développer un algorithme,4
+DDA-53,exécuter l'algorithme,9
+DDA-33,envoyer les données de manière asynchrone les données de Nvidia à MongoDB,10
+DDA-34,envoyer les données de manière synchrone les données de Nvidia à MongoDB,10
+DDA-35,requêter les données du backend à MongoDB,10
+DDA-36,définir les graphiques / kpi nécessaires,8
+DDA-37,déterminer la structure de données de MongoDB,8

@@ -1,0 +1,15 @@
+{
+	"project1": {"project_Id":"qualiphyCount","skills":["python", "computer vision", "Embedded system", "mongodb", "Docker", "pytorch", "onnx","Data science","AI","Classification"]}
+,
+	"project2": {"project_Id":"qualiphyInStore","skills":["python","computer vision", "Embedded system", "mongodb", "Docker", "pytorch", "onnx", "rfid","data science","AI","Classification"]}
+,
+	"project3": {"project_Id":"phygia","skills":["blockchain", "Web Applications","Web Services", "cloud", "iot", "ReactJs"]}
+,
+	"project4": {"project_Id":"anaChain","skills":["Web Applications","Web Services", "Blockchain", "Firebase", "google_cloud", "design", "Docker", "ReactJs"]}
+,
+     	"project5": {"project_Id":"jumpar","skills":["Web Applications","Web Services", "Docker", "NodeJS", "ReactJS"]}
+,
+	"project6": {"project_Id":"tableBot","skills":["computer vision", "embedded_system", "camera lidar", "python", "ros", "Docker","Numpy", "Pandas"]}
+,
+	"project7": {"project_Id":"jamah","skills":["python", "nlp", "Mobile","Web Applications","Web Services", "google_cloud", "firebase", "OCR", "finance","NodeJS"]}
+}

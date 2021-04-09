@@ -1,0 +1,23 @@
+{
+"user1": {"person_Id":"Seddik Bellamine","skills":["NodeJs, Blockchain, jQuery, PHP,JavaScript, Ethereum,Solidity Java, SQL, PL/SQL, HTML5, CSS3, JS, Ajax, Rest, API , GIT"]}
+,
+"user2":{"person_Id":"Nihel Hosni ","skills":["Nodejs,Expressjs,Reactjs,Angular,  HTML,Bootstrap,CSS, ASP .NET CORE , C# JAVA,JEE ,Spring Boot MySQL,SQL Server , Mongodb,Sequelize Solidity,Blockchain"]}
+,
+"user3":{"person_Id":"Ghada Mjanah ","skills":["NLP,Flask, Deep learning (classification + regression),Spyder/Jupyter/Anaconda GitHub/GitLab Deep Learning (JIRA, Confluence) Ticketing Systems Collaboration (Teams, Slack, Zoom, Webex, Miro u.a.) Python Flask Framework PuTTY FileZilla Client HTML, CSS Basic knowledge of Java programming language (IntelliJ IDEA IDE) Working with PostgreSQL database JSON Machine Learning" ]}
+,
+"user4":{"person_Id":"Sobhi Boughanmi ","skills":["Versionning Git ,Bitbucket Conception Merise, UML, Design Pattern , SCRUM (JIRA Software) HTML/HTML5, CSS/CSS3,Javascript,NodeJS,Express.jsRedux architecture (hooks) ReactJS , Strapi headless CMS, Apollo Server 2,GraphQL,REST web services,Firebase,SCRUM (JIRA Software),React Material UI ,Jest testing,Sematic UI, Google Cloud Storage, C++, ASP.NET,C#, JEE, Hibernate, Java, MongoDB, SQL Server, MySQL, Swagger"]}
+,
+"user5":{"person_Id":"Haithem Hermassi ","skills":["OS Windows  Linux (Fedora, Red Hat, Ubuntu), Programming C/C++, Java, Matlab, Python, PHP, XML,Data science & Machine learning SparkML, IBM Watson Studio, Tensorflow/Keras, Caffe, DataViz, Anaconda, AWS-ML, RDS, Microsoft Power BI, Vmware, Cloud Azure: Azure machine learning, Apache SystemML (DML), Matconvnet, IBM Watson IoT, Google colab. Grafana/Prometheus, Elastisticsearch/kibana, AWS-Elasticbeanstalk,  Databases & Big data tools Cloudera, Spark, Oracle: (6i, 10g, 11g), Mysql, Acess, Hadoop-Mapreduce & Yarn" ]}
+,
+"user6":{"person_Id":"Wafa Barguaoui  ","skills":["Java, JavaScript, Python, cDéveloppement web:React JS, Springboot, NodeJs,ExpressJs, Laravel, HTML/CSS/phpBase des données, MySQL, PL/SQL,MongoDB Développement mobile: AndroidStudio,CMS: WordpressMeth. du dev de logiciels: Agile/Scrum, DevOps,UML, Windows, Linux"]}
+,
+"user7":{"person_Id":"Mahdi Barkia  ","skills":[" Python, Java, JavaScript, TypeScriptAngular 9, Tornado, Spring(Boot, Data MVC, Security) Jenkins, Docker, Ansible ,Saltstack, AWS, CI/CDUML, Merise, Design Pattern, Scrum.MySQL, Oracle SQL, MongoDB.Jinja2. Git. Windows, Linux(Ubuntu),Heroku, Bacula systems, Odoo, Nginx"]}
+}
+	
+
+
+	
+
+
+
+
